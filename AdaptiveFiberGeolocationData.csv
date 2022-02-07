@@ -1,0 +1,5 @@
+# Adaptive Fiber IP Block Geofeeds data
+# prefix,country_code,region_code,city,postal
+38.142.233.72/29,US,US-CO,Grand Junction,
+38.88.53.96/29,US,US-CO,Colorado Springs,
+38.75.240.0/21,US,US-CO,Colorado Springs,
